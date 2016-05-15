@@ -5,4 +5,4 @@
 	*  Logstash configuration: check in this repository, this file is located in the folder /etc/logstash/conf.d/
 	*  Kibana configuration: sudo vi /opt/kibana/config/kibana.yml
 	
-# 
+# Slides:http://slides.com/alinagherman/elk#/
