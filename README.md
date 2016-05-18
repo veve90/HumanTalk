@@ -11,3 +11,7 @@
 
 # Humantalk:
 * http://humantalks.com/
+* 
+
+# Logstash configuration
+humantalk.conf
