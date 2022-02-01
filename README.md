@@ -1,3 +1,6 @@
+# HumanTalk
+This repository was used during one human talk
+
 # Installation details
 * Check the installation repositories for the installed version of ELK and for the tutorial for installation
 * Configurations:
