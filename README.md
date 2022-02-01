@@ -1,4 +1,4 @@
-#Installation details
+# Installation details
 * Check the installation repositories for the installed version of ELK and for the tutorial for installation
 * Configurations:
 	*  Elasticsearch configuration:  /etc/elasticsearch/elasticsearch.yml
